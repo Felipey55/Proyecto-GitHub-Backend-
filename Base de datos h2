@@ -1,0 +1,130 @@
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Madrid', 'New York', '2024-09-05', 650, 'Economy', 'Carry-On', 200);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Toronto', 'Paris', '2024-09-07', 540, 'Business', 'Checked', 150);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Tokyo', 'Berlin', '2024-09-08', 900, 'First', 'Carry-On', 250);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('New York', 'Madrid', '2024-09-09', 700, 'Business', 'Checked', 180);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Berlin', 'Los Angeles', '2024-09-11', 850, 'Economy', 'Checked', 220);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Rome', 'Tokyo', '2024-09-12', 1100, 'First', 'Carry-On', 300);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Paris', 'Sydney', '2024-09-14', 1250, 'Business', 'Checked', 170);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('London', 'New York', '2024-09-16', 480, 'Economy', 'Carry-On', 230);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Tokyo', 'Paris', '2024-09-18', 950, 'First', 'Checked', 210);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('New York', 'Toronto', '2024-09-20', 380, 'Economy', 'Carry-On', 190);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Sydney', 'Berlin', '2024-09-23', 1300, 'First', 'Checked', 260);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Los Angeles', 'Rome', '2024-09-25', 1050, 'Business', 'Carry-On', 220);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Toronto', 'Tokyo', '2024-09-27', 900, 'Business', 'Checked', 200);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Berlin', 'Paris', '2024-09-28', 400, 'Economy', 'Carry-On', 150);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Madrid', 'Sydney', '2024-09-30', 1400, 'First', 'Checked', 300);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('New York', 'Tokyo', '2024-10-01', 920, 'Business', 'Carry-On', 180);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Rome', 'Los Angeles', '2024-10-03', 850, 'Economy', 'Checked', 240);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Berlin', 'Madrid', '2024-10-05', 350, 'Business', 'Carry-On', 170);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Sydney', 'Rome', '2024-10-07', 1350, 'First', 'Checked', 290);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Tokyo', 'New York', '2024-10-10', 950, 'Business', 'Carry-On', 200);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Paris', 'Toronto', '2024-10-12', 580, 'Economy', 'Checked', 160);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('London', 'Berlin', '2024-10-15', 500, 'Economy', 'Carry-On', 220);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Los Angeles', 'New York', '2024-10-17', 420, 'Economy', 'Checked', 180);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Rome', 'Paris', '2024-10-19', 350, 'Business', 'Carry-On', 150);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Sydney', 'Toronto', '2024-10-22', 1200, 'First', 'Checked', 280);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Tokyo', 'Berlin', '2024-10-24', 1100, 'Business', 'Carry-On', 220);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Paris', 'New York', '2024-10-26', 700, 'First', 'Checked', 240);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Berlin', 'Tokyo', '2024-10-28', 880, 'Economy', 'Carry-On', 190);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Madrid', 'Rome', '2024-10-30', 420, 'Business', 'Carry-On', 180);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('London', 'Paris', '2024-11-01', 450, 'Economy', 'Checked', 170);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Toronto', 'Los Angeles', '2024-11-05', 640, 'Business', 'Carry-On', 200);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('New York', 'Rome', '2024-11-07', 800, 'First', 'Checked', 210);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Tokyo', 'London', '2024-11-09', 1050, 'Business', 'Checked', 230);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Sydney', 'Paris', '2024-11-12', 1350, 'First', 'Carry-On', 250);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Rome', 'New York', '2024-11-15', 750, 'Business', 'Carry-On', 190);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Toronto', 'Madrid', '2024-11-18', 650, 'Economy', 'Checked', 170);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Berlin', 'Sydney', '2024-11-22', 1200, 'First', 'Checked', 260);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('New York', 'Berlin', '2024-11-25', 850, 'Business', 'Carry-On', 180);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Paris', 'Tokyo', '2024-11-28', 1150, 'First', 'Checked', 250);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('London', 'Madrid', '2024-12-01', 500, 'Economy', 'Carry-On', 230);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Sydney', 'New York', '2024-12-04', 1400, 'First', 'Checked', 280);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Medellin', 'Bogota', '2024-12-04', 1400, 'First', 'Checked', 300);
+
+INSERT INTO FLIGHT (origin, destination, date, price, class_type, type_luggage, number_passengers)
+VALUES ('Cali', 'Medellin', '2024-12-04', 1400, 'First', 'Checked', 270);
+
+Select * From FLIGHT;
